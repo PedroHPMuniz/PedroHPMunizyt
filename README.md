@@ -1,4 +1,5 @@
 <h1 align="center">Oi 👋, sou Pedro Muniz</h1>
+<h3 align="center">Um apaixonado desenvolvedor frontend do Brasil</h3><h1 align="center">Oi 👋, sou Pedro Muniz</h1>
 <h3 align="center">Um apaixonado desenvolvedor frontend do Brasil</h3>
 
 - 🔭 Atualmente estou trabalhando no **Inovaê* *
